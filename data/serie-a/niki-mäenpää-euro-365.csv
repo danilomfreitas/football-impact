@@ -1,0 +1,49 @@
+--- When using SR data, please cite us and provide a link and/or a mention.
+
+
+ 
+Goalkeeping,Goalkeeping,Goalkeeping
+Statistic,Per 90,Percentile
+Goals Against,1.64,25
+Shots on Target Against,4.73,80
+Saves,3.39,86
+Save%,71.8%,66
+Wins,0.06,1
+Draws,0.24,42
+Losses,0.67,97
+Clean Sheets,0.06,3
+Clean Sheet Percentage,6.3%,4
+Penalty Kicks Attempted,0.36,96
+Penalty Kicks Allowed,0.30,2
+Penalty Kicks Saved,0.00,26
+Penalty Kicks Missed,0.06,95
+Save% (Penalty Kicks),0.0%,26
+Goals Against,1.64,25
+Penalty Kicks Allowed,0.30,2
+Free Kick Goals Against,0.00,73
+Corner Kick Goals Against,0.24,28
+Own Goals Scored Against Goalkeeper,0.00,88
+,,
+PSxG,1.80,7
+PSxG/SoT,0.34,87
+PSxG-GA,+0.16,92
+,,
+Passes Completed (Launched),4.91,24
+Passes Attempted (Launched),14.30,42
+Pass Completion Percentage (Launched),34.3%,17
+,,
+Passes Attempted,22.97,34
+Throws Attempted,4.18,49
+Launch%,45.6%,55
+Average Pass Length,39.6,58
+,,
+Goal Kicks,8.61,89
+Launch% (Goal Kicks),44.4%,26
+Avg. Length of Goal Kicks,36.9,22
+,,
+Crosses Faced,10.18,89
+Crosses Stopped,0.55,42
+Crosses Stopped %,5.4%,26
+,,
+Def. Actions Outside Pen. Area,0.42,18
+Avg. Distance of Def. Actions,12.8,13

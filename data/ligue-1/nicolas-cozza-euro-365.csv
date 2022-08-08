@@ -1,0 +1,177 @@
+--- When using SR data, please cite us and provide a link and/or a mention.
+
+
+ 
+Standard Stats,Standard Stats,Standard Stats
+Statistic,Per 90,Percentile
+Goals,0.07,70
+Assists,0.07,93
+Non-Penalty Goals,0.07,70
+Penalty Kicks Made,0.00,49
+Penalty Kicks Attempted,0.00,49
+Yellow Cards,0.07,93
+Red Cards,0.03,20
+,,
+xG,0.05,50
+npxG,0.05,50
+xA,0.03,85
+npxG+xA,0.08,69
+Goals,0.07,70
+Shots Total,0.19,9
+Shots on target,0.10,36
+Shots on target %,50.0%,95
+Goals/Shot,0.33,98
+Goals/Shot on target,0.67,82
+Average Shot Distance,14.00,24
+Shots from free kicks,0.00,46
+Penalty Kicks Made,0.00,49
+Penalty Kicks Attempted,0.00,49
+,,
+xG,0.05,50
+npxG,0.05,50
+npxG/Sh,0.24,99
+Goals - xG,+0.02,76
+Non-Penalty Goals - npxG,+0.02,76
+Passes Completed,36.81,29
+Passes Attempted,44.84,32
+Pass Completion %,82.1%,27
+Total Passing Distance,747.13,23
+Progressive Passing Distance,227.14,14
+,,
+Passes Completed (Short),11.53,45
+Passes Attempted (Short),13.13,47
+Pass Completion % (Short),87.9%,26
+,,
+Passes Completed (Medium),19.10,31
+Passes Attempted (Medium),21.93,35
+Pass Completion % (Medium),87.1%,15
+,,
+Passes Completed (Long),5.49,13
+Passes Attempted (Long),8.35,11
+Pass Completion % (Long),65.8%,35
+Assists,0.07,93
+xA,0.03,85
+Key Passes,0.32,86
+Passes into Final Third,1.46,13
+Passes into Penalty Area,0.36,85
+Crosses into Penalty Area,0.13,94
+Progressive Passes,2.24,37
+Passes Attempted,44.84,32
+,,
+Live-ball passes,40.45,25
+Dead-ball passes,4.39,93
+Passes from Free Kicks,0.78,6
+Through Balls,0.03,62
+Passes Under Pressure,3.83,7
+Switches,0.81,17
+Crosses,0.42,89
+Corner Kicks,0.00,49
+,,
+Inswinging Corner Kicks,0.00,49
+Outswinging Corner Kicks,0.00,49
+Straight Corner Kicks,0.00,50
+,,
+Ground passes,30.54,28
+Low Passes,5.72,87
+High Passes,8.58,42
+,,
+Passes Attempted (Left),27.68,75
+Passes Attempted (Right),9.94,21
+Passes Attempted (Head),2.63,52
+Throw-Ins taken,3.57,95
+Passes Attempted (Other),0.13,39
+,,
+Passes Completed,36.81,29
+Passes Offside,0.03,89
+Passes Out of Bounds,1.20,13
+Passes Intercepted,0.84,56
+Passes Blocked,0.84,15
+Shot-Creating Actions,0.75,75
+,,
+SCA (PassLive),0.58,73
+SCA (PassDead),0.03,72
+SCA (Drib),0.03,89
+SCA (Sh),0.00,17
+SCA (Fld),0.10,98
+SCA (Def),0.00,29
+,,
+Goal-Creating Actions,0.16,95
+,,
+GCA (PassLive),0.13,94
+GCA (PassDead),0.00,48
+GCA (Drib),0.03,99
+GCA (Sh),0.00,37
+GCA (Fld),0.00,46
+GCA (Def),0.00,48
+Tackles,2.73,95
+Tackles Won,1.53,92
+Tackles (Def 3rd),1.69,93
+Tackles (Mid 3rd),0.78,85
+Tackles (Att 3rd),0.26,97
+,,
+Dribblers Tackled,0.75,66
+Dribbles Contested,2.11,94
+% of dribblers tackled,35.4%,4
+Dribbled Past,1.36,1
+,,
+Pressures,11.83,83
+Successful Pressures,4.06,78
+Successful Pressure %,34.3%,31
+Pressures (Def 3rd),6.53,81
+Pressures (Mid 3rd),4.00,70
+Pressures (Att 3rd),1.30,96
+,,
+Blocks,1.62,43
+Shots Blocked,0.62,27
+Shots Saved,0.00,32
+Passes Blocked,1.01,63
+,,
+Interceptions,2.24,64
+Tkl+Int,4.97,87
+Clearances,3.18,17
+Errors,0.10,7
+Touches,55.72,32
+Touches (Def Pen),6.76,16
+Touches (Def 3rd),29.31,24
+Touches (Mid 3rd),24.24,31
+Touches (Att 3rd),7.02,90
+Touches (Att Pen),1.07,73
+Touches (Live-Ball),51.50,26
+,,
+Dribbles Completed,0.39,85
+Dribbles Attempted,0.62,88
+Successful Dribble %,63.2%,39
+Players Dribbled Past,0.39,85
+Nutmegs,0.00,37
+,,
+Carries,33.63,43
+Total Carrying Distance,220.78,60
+Progressive Carrying Distance,101.50,50
+Progressive Carries,2.76,67
+Carries into Final Third,0.84,82
+Carries into Penalty Area,0.19,99
+Miscontrols,0.81,1
+Dispossessed,0.52,4
+,,
+Pass Targets,35.55,40
+Passes Received,33.50,35
+Passes Received %,94.2%,2
+Progressive Passes Rec,0.55,93
+Yellow Cards,0.07,93
+Red Cards,0.03,20
+Second Yellow Card,0.00,57
+Fouls Committed,1.07,50
+Fouls Drawn,0.68,62
+Offsides,0.03,47
+Crosses,0.42,89
+,,
+Interceptions,2.24,64
+Tackles Won,1.53,92
+Penalty Kicks Won,0.00,47
+Penalty Kicks Conceded,0.00,76
+Own Goals,0.00,60
+Ball Recoveries,6.89,6
+,,
+Aerials won,1.49,10
+Aerials lost,1.27,71
+% of Aerials Won,54.1%,17
